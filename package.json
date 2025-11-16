@@ -1,12 +1,12 @@
 {
-  "name": "nextjs-resume",
+  "name": "portfolio",
   "version": "5.1.3",
   "license": "MIT",
   "type": "module",
   "author": {
-    "name": "Colin Hemphill",
-    "email": "colin@colinhemphill.com",
-    "url": "https://colinhemphill.com"
+    "name": "Ronan Jaffré",
+    "email": "ronan.jaffre@gmail.com",
+    "url": "https://github.com/RonanJaffre/portfolio"
   },
   "keywords": [
     "resume",
@@ -15,7 +15,7 @@
     "pdf",
     "tailwind"
   ],
-  "homepage": "https://github.com/colinhemphill/nextjs-resume",
+  "homepage": "https://github.com/RonanJaffre/portfolio",
   "scripts": {
     "build": "next build",
     "build:content": "contentlayer build",
