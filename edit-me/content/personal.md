@@ -1,5 +1,5 @@
 ---
-givenName: Ronan
+givenName: Ron
 familyName: Jaffré
 title: Développeur JS / .Net
 location: Bordeaux, France
