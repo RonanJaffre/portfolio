@@ -1,6 +1,6 @@
 ---
 givenName: Ron
-familyName: Jaffré
+familyName: Jaffre
 title: Développeur JS / .Net
 location: Bordeaux, France
 phone: +33 6 58 19 61 29
