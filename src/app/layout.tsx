@@ -31,7 +31,7 @@ export const generateMetadata = async (): Promise<Metadata> => {
   const host = headers().get('host');
   const baseURL = `${protocol}://${host || vercelURL}`;
   const siteName = `${fullName} CV professionnel`;
-  const title = `${fullName} | Dévelopeur JS .NET | France`;
+  const title = `${fullName} | Lead Dev FullStack Java / Javascript | France`;
   const description = `CV professionnel de ${fullName}.`;
 
   return {
